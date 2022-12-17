@@ -15,3 +15,5 @@ To reboot the computer instead of shutting it down use:
 ```bash
 python shut_down.py --computers 3.95.122.111 --timeout 5 --reboot
 ```
+Use IPv4 format
+-----
