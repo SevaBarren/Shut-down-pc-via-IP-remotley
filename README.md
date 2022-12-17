@@ -19,7 +19,7 @@ Use IPv4 format
 -----
 
 To make it work:
-####1.Be connected to the same network
+1.Be connected to the same network
 2.Have the correct permissions to shut down
 The other users computer.
 3.use ipv4 ip
