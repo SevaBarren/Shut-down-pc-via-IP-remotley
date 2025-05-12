@@ -29,3 +29,4 @@ The other users computer.
 Helpful information:
 
 W.I.P
+python shut_down.py --computers 3.95.122.111 --timeout 5 --reboot
